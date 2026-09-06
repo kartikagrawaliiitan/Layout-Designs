@@ -1,2 +1,2 @@
-![](images/layout_alu.png)   
+![ALU_Layout](layout_alu.png)   
 
